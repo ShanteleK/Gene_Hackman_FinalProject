@@ -8,7 +8,7 @@
 # Semester/Year:  Spring 2025
 # Brief Description of the assignment: This final tests the knowledge we have obtained this semester by having us decrypt a location and movie name.
 # Brief Description of what this module does. This module loads the image we took at the decrypted location.
-# Citations:
+# Citations:N/A
 from PIL import Image
 import os
 

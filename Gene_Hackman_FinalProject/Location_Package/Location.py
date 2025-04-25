@@ -8,7 +8,7 @@
 # Semester/Year:  Spring 2025
 # Brief Description of the assignment: This final tests the knowledge we have obtained this semester by having us decrypt a location and movie name.
 # Brief Description of what this module does.  This module loads the encrypted json document and decrypts it using the UCEnglish.txt to obtain the location for the photo
-# Citations:
+# Citations:ChatGPT
 import json
 
 class LocationDecryptor:

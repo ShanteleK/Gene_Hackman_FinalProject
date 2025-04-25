@@ -8,7 +8,7 @@
 # Semester/Year:  Spring 2025
 # Brief Description of the assignment: This final tests the knowledge we have obtained this semester by having us decrypt a location and movie name.
 # Brief Description of what this module does. This module initializes the classes and runs the project.
-# Citations:
+# Citations:ChatGPT
 from Image_Package.Image import load_Photo
 from Location_Package.Location import LocationDecryptor
 from Movie_Package.Movie import MovieDecryptor
