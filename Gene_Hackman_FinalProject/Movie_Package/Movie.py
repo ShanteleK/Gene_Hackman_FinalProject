@@ -1,5 +1,14 @@
-# Jay Powell
-# Sources: 
+## Main.py
+# File Name : Main.py
+# Student Name: Abel Yemaneab, Shantele King, Jay Powell, Saivasami Amireddy
+# email: yemaneag@mail.uc.edu, king4sl@mail.uc.edu, powela9@mail.uc.edu, amiredsr@mail.uc.edu
+# Assignment Number: Final Project
+# Due Date:   05/01/2025
+# Course #/Section: IS 4010-001
+# Semester/Year:  Spring 2025
+# Brief Description of the assignment: This final tests the knowledge we have obtained this semester by having us decrypt a location and movie name.
+# Brief Description of what this module does. This module loads the encrypted json document and decrypts it with a key to obtain the movie name
+# Citations:
     # https://blog.bytescrum.com/encrypting-and-decrypting-data-with-fernet-in-python#heading-decrypting-data
     # https://stackoverflow.com/questions/55776011/decrypt-with-fernet-python
 
