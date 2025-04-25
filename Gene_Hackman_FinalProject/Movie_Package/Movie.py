@@ -8,7 +8,7 @@
 # Semester/Year:  Spring 2025
 # Brief Description of the assignment: This final tests the knowledge we have obtained this semester by having us decrypt a location and movie name.
 # Brief Description of what this module does. This module loads the encrypted json document and decrypts it with a key to obtain the movie name
-# Citations:ChatGPT
+# Citations:
     # https://blog.bytescrum.com/encrypting-and-decrypting-data-with-fernet-in-python#heading-decrypting-data
     # https://stackoverflow.com/questions/55776011/decrypt-with-fernet-python
 
